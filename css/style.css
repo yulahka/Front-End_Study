@@ -32,7 +32,7 @@ h2 {
 
 }
 
-UL {
+ul {
     list-style-type: disc;
     list-style-position: outside;
     color: black;
@@ -44,7 +44,7 @@ UL {
     font-weight: lighter;
 }
 
-OL {
+ol {
     float: left;
     list-style-type: decimal;
     list-style-position: outside;
