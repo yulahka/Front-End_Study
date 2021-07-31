@@ -1,75 +1,115 @@
-body { margin: 0; }
+body {
+    margin: 0;
+}
+
 .clear {
     clear: both;
 }
+
 .first_info {
     float: left;
     font-size: 16px;
+    margin-left: 65px;
+    font-family: "Bookman Old Style";
 }
+
 .photo {
     float: left;
     height: 200px;
-    width: 180px;
+    width: 200px;
+    margin-left: 60px;
+    margin-top: 20px;
 }
+
 .lists {
     float: bottom;
 }
+
 h2 {
     clear: left;
+    margin-left: 240px;
+    font-family: "Baskerville Old Face";
+
 }
+
 UL {
     list-style-type: disc;
     list-style-position: outside;
     color: black;
     float: left;
-    font-size: 16px;
+    font-size: 20px;
+    margin-left: 250px;
+    font-family: "Baskerville Old Face";
+    font-style: oblique;
+    font-weight: lighter;
 }
+
 OL {
     float: left;
     list-style-type: decimal;
     list-style-position: outside;
     color: black;
     line-height: normal;
-    font-size: 16px;
+    font-size: 20px;
+    margin-left: 100px;
+    font-family: "Baskerville Old Face";
+    font-style: oblique;
+    font-weight: bolder;
 }
+
 .movies {
     float: top;
 }
+
 h3 {
     clear: left;
+    margin-left: 290px;
+    font-family: "Bookman Old Style";
 }
-.films{
+
+.films {
     float: left;
+    margin-left: 70px;
+    font-family: "Comic Sans MS";
+    line-height: 18px;
 }
+
 .movie1 {
     height: 200px;
     width: 150px;
 }
+
 .descriptionmovie1 {
     font-size: 16px;
-    width: 150px;
+    width: 200px;
 }
+
 .movie2 {
     height: 200px;
     width: 150px;
 }
+
 .descriptionmovie2 {
     font-size: 16px;
-    width: 150px;
+    width: 200px;
 }
+
 .movie3 {
     height: 200px;
     width: 150px;
 }
+
 .descriptionmovie3 {
     font-size: 16px;
-    width: 150px;
+    width: 200px;
 }
+
 .movie4 {
     height: 200px;
     width: 150px;
 }
+
 .descriptionmovie4 {
     font-size: 16px;
-    width: 150px;
+    width: 200px;
 }
