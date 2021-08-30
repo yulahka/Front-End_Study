@@ -1,0 +1,66 @@
+body {
+    margin: auto;
+    padding: 10px;
+    max-width: 1100px;
+}
+
+.clear {
+    clear: both;
+}
+
+h2 {
+    margin-left: 240px;
+    font-family: "Baskerville Old Face", sans-serif;
+}
+
+ul {
+    float: left;
+    margin-left: 250px;
+    font: oblique 20px/20px "Baskerville Old Face", sans-serif;
+    color: black;
+}
+
+ol {
+    float: left;
+    margin-left: 100px;
+    color: black;
+    font: bolder 20px/20px "Baskerville Old Face", sans-serif;
+    font-style: oblique;
+}
+
+h3 {
+    margin-left: 290px;
+    font-family: "Bookman Old Style", sans-serif;
+}
+
+.films {
+    float: left;
+    margin-left: 70px;
+    font-family: "Comic Sans MS", sans-serif;
+    line-height: 18px;
+}
+
+.first_info {
+    float: left;
+    margin-left: 65px;
+    margin-top: 15px;
+    font: normal 16px/16px "Bookman Old Style", sans-serif;
+}
+
+.photo {
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.movie-image {
+    height: 200px;
+    width: 150px;
+}
+
+.description-movie {
+    font-size: 16px;
+    width: 200px;
+}
